@@ -5,6 +5,7 @@ public static void main(String[] args) {
  
  Arrays.sort(str);
  
+ //A for loop to print out the sorted String Array
  for(int i=0;i<str.length;i++){
   System.out.println(str[i]);
  }
